@@ -1,0 +1,61 @@
+.Mtavari-Gverdi{
+    color:cadetblue;
+    display: grid;
+    width: 100%;
+}
+
+body {
+    background-image:url(https://wallpapercave.com/wp/agLijth.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.planets{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.earth img{
+    width: 20%;
+}
+.earth{
+    display: grid;
+}
+.Main-Page{
+    justify-content: center;
+    display: flex;
+}
+.planet-earth{
+    width: 100%;
+   font-size: 30px;
+}
+.main-mars{
+    display: grid;
+}
+.main-component{
+    display: grid;
+    width: 600px;
+    color: snow;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.tanamgzavrebi{
+    color: snow;
+    
+}
+.Chamonatvali{
+    color: snow;
+}
+ul{
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.main-component img{
+    width: 33%;
+}
